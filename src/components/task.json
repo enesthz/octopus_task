@@ -1,25 +1,25 @@
 {
- "image1": {
+ "1": {
   "type": "image",
   "url": "https://images.unsplash.com/photo-1666120565037-d56d71cdef3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
   "durationInSec": 2
  },
- "image2": {
+ "2": {
   "type": "image",
   "url": "https://images.unsplash.com/photo-1666147775717-65fa1fe0c47b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
   "durationInSec": 3
  },
- "image3": {
+ "3": {
   "type": "image",
   "url": "https://images.unsplash.com/photo-1666147166729-b13bd4d7198c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
   "durationInSec": 2
  },
- "video1": {
+ "4": {
   "type": "video",
   "url": "https://assets.mixkit.co/videos/preview/mixkit-shadow-of-a-saxophonist-playing-inspired-43759-large.mp4",
   "durationInSec": 10
  },
- "video2": {
+ "5": {
   "type": "video",
   "url": "https://assets.mixkit.co/videos/preview/mixkit-aerial-view-of-city-traffic-at-night-11-large.mp4",
   "durationInSec": 10
